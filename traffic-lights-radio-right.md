@@ -127,7 +127,7 @@ basic.forever(function () {
 
 ### Step 8
 Connect your second BBC micro:bit and click ``|Download|`` to transfer your code.  
-Once programmed, press `||input:button A||`` on the other traffic light and see if they alternate traffic light sequences.
+Once programmed, press ``||input:button A||`` on the other traffic light and see if they alternate traffic light sequences.
 
 ### Traffic Light Tutorial Complete @unplugged
 Great work! Hopefully now both of your traffic lights work, and show alternate sequences!  Whew, that was a tricky one!
